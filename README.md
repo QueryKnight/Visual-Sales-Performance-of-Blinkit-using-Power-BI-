@@ -7,6 +7,9 @@ Sales by Product Category: Performance across different product types 🍇🥫
 Sales by Region: Regional performance 📍
 Sales by Time Period: Performance over hours, days, and months 🗓️
 Customer Demographics: Insights on customer groups 🎯
+
+
+
 ![Dashboard](https://github.com/user-attachments/assets/991bdbff-762f-4712-a882-7b294c797e9e)
 
 
