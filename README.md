@@ -8,6 +8,9 @@ Sales by Region: Regional performance 📍
 Sales by Time Period: Performance over hours, days, and months 🗓️
 Customer Demographics: Insights on customer groups 🎯
 
+<img src="file:///D:/Orange%20and%20White%20Playful%20Cute%20Zoom%20Virtual%20backgrond.pdf" alt="Dashboard">
+
+
 ## Power BI Features Used: Power BI helped create dynamic and interactive reports:
 
 Data Modeling: Built relationships between different data sets 🔗
